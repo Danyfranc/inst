@@ -1,0 +1,44 @@
+#team-section {
+	padding: 100px 0;
+}
+.section-title.center {
+	padding: 30px 0;
+}
+#team-section h3 {
+	border-top: 1px solid #b8dea2;
+	padding-top: 20px;
+	display: inline-block;
+}
+img.team-img {
+	width: 160px;
+	height: 160px;
+	border: 0;
+	transition: all 0.5s;
+	margin: 0;
+}
+#team-section .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#team-section .thumbnail .caption {
+	padding: 0;
+}
+/* Services Section */
+#services-section {
+	padding: 100px 0;
+}
+#services-section h4 {
+	border-bottom: 1px solid #b8dea2;
+	padding-bottom: 20px;
+	display: inline-block;
+}
+.space {
+	margin-top: 40px;
+}
+#services-section i.fa {
+	font-size: 36px;
+	margin-right: 20px;
+	color: #71bd46;
+	padding-bottom: 10px;
+	display: block;
+}
